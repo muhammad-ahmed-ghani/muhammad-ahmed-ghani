@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background: linear-gradient(to right, #e0e0e0 0%, #f2f2f2 20%, #d9d9d9 40%, #f2f2f2 60%, #e0e0e0 80%, #f2f2f2 100%);padding:10px 0 10px 0;">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="c" width="40" height="40"/>
